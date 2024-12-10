@@ -1,6 +1,9 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ByteDance
 - 🌱 I’m currently learning Go
+- My Bogl
+https://juejin.cn/user/3507877389285450
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AlexLi-Dev&show_icons=true&theme=dark"
