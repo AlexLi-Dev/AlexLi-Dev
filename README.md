@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 </picture>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexLi-Dev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexLi-Dev&repo=AlexLi-Dev)](https://github.com/anuraghazra/github-readme-stats)
