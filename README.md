@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Go
 - My Bogl
 - <a href='https://juejin.cn/user/3507877389285450'>掘金</a>
+- <a href='https://blog.csdn.net/l47ronin?type=blog'>CSDN</a>
 
 <picture>
   <source
