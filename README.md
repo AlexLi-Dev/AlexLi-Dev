@@ -1,4 +1,4 @@
-## Hi there 👋
+## The greatest business model in the world is altruism 👋
 - 🔭 I’m currently working on ByteDance
 - 🌱 I’m currently learning Go
 - My Bogl
