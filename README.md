@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexLi-Dev&repo=AlexLi-Dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLi-Dev)](https://github.com/anuraghazra/github-readme-stats)
