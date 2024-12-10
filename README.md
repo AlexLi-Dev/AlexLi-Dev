@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on ByteDance
 - 🌱 I’m currently learning Go
 - My Bogl
-<a href='https://juejin.cn/user/3507877389285450'>
+- <a href='https://juejin.cn/user/3507877389285450'>掘金</a>
 
 <picture>
   <source
