@@ -23,7 +23,7 @@
 
 ## 👋 About me
 
-嗨，我是 **AlexLi**，一名软件工程师。
+嗨，我是 **AlexLee**，一名软件工程师。
 
 我相信：**The greatest business model in the world is altruism.**
 
