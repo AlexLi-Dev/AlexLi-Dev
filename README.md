@@ -23,11 +23,11 @@
 
 ## 👋 About me
 
-嗨，我是 **AlexLee**，一名软件工程师。
+嗨，我是 **AlexLee**，一名软件工程师、**Go** 文化推动者、开源生态贡献着。
 
 我相信：**The greatest business model in the world is altruism.**
 
-目前就职于 **ByteDance**，**Go** 文化推动者、开源生态贡献着。
+曾就职于**Tencent**、**ByteDance**。
 
 我喜欢把复杂问题拆清楚，把想法做成真正可用的软件，也会在个人博客、掘金和 CSDN 记录工程实践与思考。
 
