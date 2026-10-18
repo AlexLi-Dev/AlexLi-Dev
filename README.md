@@ -1,5 +1,5 @@
 <!-- ======================= BANNER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22C55E&height=210&section=header&text=AlexLi&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Go%20Learner%20%C2%B7%20Builder&descSize=18&descAlignY=58&animation=fadeIn" alt="AlexLi banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22C55E&height=210&section=header&text=AlexLi&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Go%20Learner%20%C2%B7%20Builder&descSize=18&descAlignY=58&animation=fadeIn" alt="AlexLee banner"/>
 
 <!-- ======================= TYPING ======================= -->
 <p align="center">
