@@ -11,7 +11,7 @@
 <!-- ======================= QUICK LINKS ======================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-ByteDance-0F172A?style=for-the-badge&logo=bytedance&logoColor=white" alt="ByteDance"/>
-  <a href="https://tgthink.cn">
+  <a href="https://wx.zsxq.com/group/48888212411248">
     <img src="https://img.shields.io/badge/Blog-tgthink.cn-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal blog"/>
   </a>
   <a href="https://juejin.cn/user/3507877389285450">
