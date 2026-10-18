@@ -23,7 +23,7 @@
 
 ## 👋 About me
 
-嗨，我是 **AlexLee**，一名软件工程师、**Go** 文化推动者、开源生态贡献着。
+嗨，我是 **AlexLee**，一名软件工程师、**Go** 文化推动者、开源生态贡献者。
 
 我相信：**The greatest business model in the world is altruism.**
 
