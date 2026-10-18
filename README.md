@@ -27,7 +27,7 @@
 
 我相信：**The greatest business model in the world is altruism.**
 
-目前就职于 **ByteDance**，正在持续学习 **Go**。我喜欢把复杂问题拆清楚，把想法做成真正可用的软件，也会在个人博客、掘金和 CSDN 记录工程实践与思考。
+目前就职于 **ByteDance**，推动 **Go**生态建设者。我喜欢把复杂问题拆清楚，把想法做成真正可用的软件，也会在个人博客、掘金和 CSDN 记录工程实践与思考。
 
 - 🔭 Working at **ByteDance**
 - 🌱 Learning **Go**
